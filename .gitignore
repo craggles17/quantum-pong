@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+*.swp
+*.swo
+*~
+playwright-report/
+test-results/
+.mypy_cache/
+.cursor/
+.specstory/
+CLAUDE/
+CLAUDE_SESSION.md
+debug_screenshot_*.png
+
